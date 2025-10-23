@@ -3,7 +3,7 @@
 
 ---
 
-### 🧠 About me
+###  About me
 - 💻 Focused on **Python**, **Java**, and **C#**
 - 🧩 Passionate about **automation**, **data analysis**, and **intelligent tools**
 - 🎨 Enjoy building **aesthetic, interactive** applications with a purpose
@@ -12,7 +12,7 @@
 
 ---
 
-### ⚙️ Tech Stack
+###  Tech Stack
 
 #### 💬 Languages
 ![Python](https://skillicons.dev/icons?i=python)
