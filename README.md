@@ -36,7 +36,7 @@
 **🧾 CFDI XML Extractor**  
 A smart tool to convert Mexican XML invoices (CFDI 3.3 & 4.0) into structured Excel reports with a beautiful interface.  
 > Built with **Python + Tkinter + Pandas**  
-[🔗 View repository](https://github.com/FuminoFuruhashi/CFDI-Extractor)
+[🔗 View repository](https://github.com/FuminoFuruhashi/Automatizacion_CFDI_Python)
 
 ---
 
@@ -50,9 +50,9 @@ A smart tool to convert Mexican XML invoices (CFDI 3.3 & 4.0) into structured Ex
 ---
 
 ### 🌐 Connect with me
-- 💼 [LinkedIn](https://linkedin.com/in/angel-sepulveda)
-- 🐦 [Twitter](https://twitter.com/FuminoFuruhashi)
-- 📧 `fumino.dev@gmail.com`
+- 💼 [LinkedIn](https://www.linkedin.com/in/angels-alvarado/)
+- 🐦 [Twitter](https://x.com/anubis985)
+- 📧 `angeldavid18@live.com`
 
 ---
 
